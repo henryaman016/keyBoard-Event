@@ -1,0 +1,27 @@
+#myDiv1,#myDiv2{
+    background-color: blueviolet;
+    padding: 50px;
+    border-radius: 5px;
+    border: 2px solid black;
+    color: yellow;
+    
+}
+
+#myP1,#myP2{
+    background-color: aqua;
+    font-size: 20px;
+    padding: 10px;
+    border: 2px solid red;
+    border-radius: 7px;
+    color: rgb(196, 27, 27);
+}
+
+#myDiv1:hover,#myDiv2:hover{
+background-color: white;
+color: blueviolet;
+}
+
+#myP1:hover ,#myP2:hover{
+    color: black;
+    background-color: white;
+}
